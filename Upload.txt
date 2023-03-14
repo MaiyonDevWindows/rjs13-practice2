@@ -1,0 +1,2 @@
+git: https://github.com/MaiyonDevWindows/rjs13-practice2
+vercel: https://rjs13-practice2.vercel.app/
